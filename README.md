@@ -1,42 +1,43 @@
-# Olá, eu sou o Bruno! 👋
-### Tecnologia, Produto & Mercado Financeiro | AI-Assisted Development
+<!-- ===================================================================== -->
+<!-- BANNER DO TOPO (OPCIONAL)                                             -->
+<!-- Para usar a mesma imagem do seu LinkedIn ou um banner personalizado,  -->
+<!-- suba a imagem no seu repositório, descomente a linha abaixo (remova   -->
+<!-- os símbolos de comentário) e substitua pelo caminho ou link da imagem -->
+<!-- ===================================================================== -->
+<!-- <div align="center"><img src="URL_OU_CAMINHO_DO_SEU_BANNER_AQUI.png" width="100%" alt="Banner Bruno Sanches"/></div> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) (linkedin.com/in/bruno-dos-santos-sanches/)                                                             
-[![Saneducoin App](https://img.shields.io/badge/Saneducoin-Acessar_MVP-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://saneducoin.lovable.app)
+<div align="center">
 
----
+  # Bruno dos Santos Sanches
+  ### Engenharia de Dados • Business Intelligence (BI) • Data Analytics • Automação
 
-## 👨‍💻 Sobre Mim
+  *Transformando dados brutos e processos complexos em inteligência estratégica de negócios.*
 
-* 📈 **Trajetória & Mercado:** Tenho 18 anos e invisto no mercado de capitais desde o meu primeiro salário, aos 16 anos.
-* 🎓 **Formação Executiva:** Bolsista do curso **Carreira de Excelência** — promovido pelo **Na Prática (Fundação Estudar)** na **Saint Paul Escola de Negócios**, com apoio filantrópico do **BTG Pactual**.
-* 🚀 **Foco Profissional:** Atuar na interseção entre **Tecnologia, Produto e Mercado Financeiro**, utilizando Inteligência Artificial, Engenharia de Prompt e Arquitetura da Informação para construir soluções escaláveis que resolvem dores reais de negócio.
+  <br/>
 
----
+  <!-- BADGES DE CONTATO -->
+  <a href="https://www.linkedin.com/in/bruno-dos-santos-sanches/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruno_Sanches-0F2137?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0A1626" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brunosanches0816@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-brunosanches0816%40gmail.com-0F2137?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0A1626" alt="Gmail" />
+  </a>
 
-## 🏆 Projetos em Destaque (Atalhos Rápidos)
-
-Clique nos links abaixo para acessar diretamente o código-fonte e as aplicações em produção:
-
-| # | Projeto | Descrição Executiva | Tecnologias & Foco | Acesso Rápido |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | **🚀 Saneducoin** | MVP de plataforma gamificada de educação financeira (*Mobile-First*) que une psicologia comportamental e código. Inclui Trilhas Gamificadas (XP), Raio-X Financeiro (BI), Calculadora de Independência Financeira, Copiloto IA e Desafios Sociais. | `React.js` `Tailwind CSS` `Prompt Engineering` `IA` | [📂 Repositório](https://github.com/SEU-USUARIO/saneducoin) <br> [🌐 Abrir App](https://saneducoin.lovable.app) |
-| **02** | **💈 ERP Barbearias — Estúdio XXI** | Sistema integrado de gestão empresarial (ERP) desenvolvido para otimizar o controle operacional, fluxo de caixa, agendamentos e administração de clientes. | `Gestão (ERP)` `Automação` `Regras de Negócio` | [📂 Repositório](https://github.com/SEU-USUARIO/ERP-Barbearias-Estudio-XXI) |
-| **03** | **📄 Gerador de Código de Barras em PDF** | Solução utilitária para geração automatizada e exportação rápida de códigos de barras prontos para impressão em formato PDF, reduzindo erros operacionais. | `Automação` `Geração de PDF` `Produtividade` | [📂 Repositório](https://github.com/SEU-USUARIO/gerador-de-codigo-de-barras-pdf) |
-
----
-
-## 🛠️ Competências Técnicas & Produto
-
-* **Desenvolvimento & IA:** Desenvolvimento Assistido por IA (*AI-Assisted Development*), Engenharia de Prompt Avançada (*Context-Setting* & *Few-Shot Prompting*), React.js, Tailwind CSS e Arquitetura *Mobile-First*.
-* **Produto & Negócios:** Concepção de MVP, Arquitetura da Informação, *Business Intelligence* (BI), Gamificação focada em retenção (*Retention Rate*) e Ciclos de Validação (*UX/UI Feedback Loop*).
-* **Finanças:** Educação Financeira, Planejamento Patrimonial, Juros Compostos e Mercado de Capitais.
+</div>
 
 ---
 
-## 📫 Vamos nos conectar?
+### 🎯 Sobre Mim & Proposta de Valor
 
-Estou sempre aberto a trocar ideias sobre **Produto, Tecnologia, Inteligência Artificial e Mercado Financeiro**:
+Graduando em **Engenharia de Software** com atuação direcionada ao ecossistema de **Dados e Automação**. Meu principal diferencial está na interseção entre o rigor técnico e a visão executiva: combino **escuta ativa, comunicação assertiva e Data Storytelling** para traduzir dores operacionais e de negócios em pipelines confiáveis, rotinas automatizadas e indicadores estratégicos claros para diferentes perfis de *stakeholders*.
 
-* 🔗 **LinkedIn:** [Acesse meu perfil no LinkedIn](linkedin.com/in/bruno-dos-santos-sanches/                                                             )
-* 🌐 **MVP em Produção (Saneducoin):** [saneducoin.lovable.app](https://saneducoin.lovable.app)
+```bash
+# brunsanches@data-pipeline:~$ ./executar_fluxo_de_valor.sh
+
+> conectar fontes de dados
+> tratar e transformar dados
+> desenvolver processos ETL
+> modelar dados e indicadores
+> gerar inteligência de negócios
+> automatizar processos
+[!IMPORTANT]Momento Atual & Destaques: Busco oportunidades de estágio de alto impacto em Engenharia de Dados, BI e Data Analytics em organizações com forte cultura data-driven. Recentemente selecionado como bolsista no programa Carreira de Excelência (Na Prática) pela Saint Paul Escola de Negócios — reconhecida entre as principais escolas de negócios do mundo —, conectando engenharia de software e análise de dados à tomada de decisão executiva.🛠️ Tech Stack & FerramentasCategoriaTecnologias & CompetênciasEngenharia & Linguagens  BI & Data Analytics   Automação & Engenharia  🚀 Projetos em DestaqueProjetoSolução & Impacto nos DadosLink🪙 SaneducoinSistema de moeda virtual educacional voltado à gamificação. Estruturação do gerenciamento de carteiras, motor de regras de recompensa e rastreamento auditável de transações.Ver Repositório💈 ERP de BarbeariaSistema de gestão empresarial para controle integrado de agendamentos, clientes, estoque e fluxo financeiro, estruturando dados operacionais na ponta para viabilizar análises de negócios.Ver Repositório🏷️ Gerador de Etiquetas (Barcode)Solução de automação para criação e padronização de etiquetas com código de barras, otimizando a rastreabilidade de estoque e eliminando gargalos de tarefas manuais.
