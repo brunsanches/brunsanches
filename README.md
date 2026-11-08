@@ -102,9 +102,9 @@ Meu principal diferencial está na interseção entre o **rigor técnico** e a *
 
 | Projeto | Solução & Impacto nos Dados | Link |
 |:--------|:----------------------------|:----:|
-| 🪙 **Saneducoin** | Sistema de moeda virtual educacional voltado à **gamificação**. Estruturação do gerenciamento de carteiras, motor de regras de recompensa e rastreamento auditável de transações. | [**Ver Repositório →**](https://github.com/SEU_USUARIO/saneducoin) |
-| 💈 **ERP de Barbearia** | Sistema de gestão empresarial para controle integrado de **agendamentos, clientes, estoque e fluxo financeiro**, estruturando dados operacionais na ponta para viabilizar análises de negócios. | [**Ver Repositório →**](https://github.com/SEU_USUARIO/erp-barbearia) |
-| 🏷️ **Gerador de Etiquetas (Barcode)** | Solução de automação para criação e padronização de etiquetas com código de barras, otimizando a **rastreabilidade de estoque** e eliminando gargalos de tarefas manuais. | [**Ver Repositório →**](https://github.com/SEU_USUARIO/gerador-etiquetas-barcode) |
+| 🪙 **Saneducoin** | Sistema de moeda virtual educacional voltado à **gamificação**. Estruturação do gerenciamento de carteiras, motor de regras de recompensa e rastreamento auditável de transações. | [**Ver Repositório →**](https://github.com/brunsanches/saneducoin) |
+| 💈 **ERP de Barbearia** | Sistema de gestão empresarial para controle integrado de **agendamentos, clientes, estoque e fluxo financeiro**, estruturando dados operacionais na ponta para viabilizar análises de negócios. | [**Ver Repositório →**](https://github.com/gwilhrm/ERP-Barbearias-Estudio-XXI) |
+| 🏷️ **Gerador de Etiquetas (Barcode)** | Solução de automação para criação e padronização de etiquetas com código de barras, otimizando a **rastreabilidade de estoque** e eliminando gargalos de tarefas manuais. | [**Ver Repositório →**](https://github.com/brunsanches/pdf-barcode-generator) |
 
 ---
 
