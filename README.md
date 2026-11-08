@@ -40,4 +40,13 @@ Graduando em **Engenharia de Software** com atuação direcionada ao ecossistema
 > modelar dados e indicadores
 > gerar inteligência de negócios
 > automatizar processos
-[!IMPORTANT]Momento Atual & Destaques: Busco oportunidades de estágio de alto impacto em Engenharia de Dados, BI e Data Analytics em organizações com forte cultura data-driven. Recentemente selecionado como bolsista no programa Carreira de Excelência (Na Prática) pela Saint Paul Escola de Negócios — reconhecida entre as principais escolas de negócios do mundo —, conectando engenharia de software e análise de dados à tomada de decisão executiva.🛠️ Tech Stack & FerramentasCategoriaTecnologias & CompetênciasEngenharia & Linguagens  BI & Data Analytics   Automação & Engenharia  🚀 Projetos em DestaqueProjetoSolução & Impacto nos DadosLink🪙 SaneducoinSistema de moeda virtual educacional voltado à gamificação. Estruturação do gerenciamento de carteiras, motor de regras de recompensa e rastreamento auditável de transações.Ver Repositório💈 ERP de BarbeariaSistema de gestão empresarial para controle integrado de agendamentos, clientes, estoque e fluxo financeiro, estruturando dados operacionais na ponta para viabilizar análises de negócios.Ver Repositório🏷️ Gerador de Etiquetas (Barcode)Solução de automação para criação e padronização de etiquetas com código de barras, otimizando a rastreabilidade de estoque e eliminando gargalos de tarefas manuais.
+[!IMPORTANT]Momento Atual & Destaques: Busco oportunidades de estágio de alto impacto em Engenharia de Dados, BI e Data Analytics em
+organizações com forte cultura data-driven. Recentemente selecionado como bolsista no programa Carreira de Excelência (Na Prática) pela
+Saint Paul Escola de Negócios — reconhecida entre as principais escolas de negócios do mundo —, conectando engenharia de software e
+análise de dados à tomada de decisão executiva.🛠️ Tech Stack & FerramentasCategoriaTecnologias & CompetênciasEngenharia & Linguagens  BI
+& Data Analytics   Automação & Engenharia  🚀 Projetos em DestaqueProjetoSolução & Impacto nos DadosLink🪙 SaneducoinSistema de moeda
+virtual educacional voltado à gamificação. Estruturação do gerenciamento de carteiras, motor de regras de recompensa e rastreamento
+auditável de transações.Ver Repositório💈 ERP de BarbeariaSistema de gestão empresarial para controle integrado de agendamentos,
+clientes, estoque e fluxo financeiro, estruturando dados operacionais na ponta para viabilizar análises de negócios.Ver Repositório🏷️
+Gerador de Etiquetas (Barcode)Solução de automação para criação e padronização de etiquetas com código de barras, otimizando a
+rastreabilidade de estoque e eliminando gargalos de tarefas manuais.
